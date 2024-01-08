@@ -13,8 +13,8 @@ I'm a passionate Frontend Developer with a focus on React.js. 🚀 I love crafti
   - Responsive Web Design
 - 🎓 Certified by:
   - ![Great Learning Certificate](certificate_images/great_learning_certificate.png) Great Learning
-  - ![Internshala Training Certificate](certificate_images/internshala_certificate.png) Internshala Training
-  - ![NSDC Certificate](certificate_images/nsdc_certificate.png) NSDC (National Skill Development Corporation)
+  - ![Internshala React Training Certificate](certificate_images/react_training_certificate.pdf) Internshala React Training
+  - ![NSDC Training Certificate](certificate_images/nsdc_training_certificate.pdf) NSDC Training
 - 🌱 I'm constantly learning and exploring new technologies.
 
 ## Contact Me
