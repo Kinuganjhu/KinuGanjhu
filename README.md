@@ -11,10 +11,6 @@ I'm a passionate Frontend Developer with a focus on React.js. 🚀 I love crafti
   - Firebase
   - Git, GitHub
   - Responsive Web Design
-- 🎓 Certified by:
-  - ![Great Learning Certificate](certificate_images/great_learning_certificate.png) Great Learning
-  - ![Internshala React Training Certificate](certificate_images/react_training_certificate.pdf) Internshala React Training
-  - ![NSDC Training Certificate](certificate_images/nsdc_training_certificate.pdf) NSDC Training
 - 🌱 I'm constantly learning and exploring new technologies.
 
 ## Contact Me
